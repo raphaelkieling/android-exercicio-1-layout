@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Application Enterprise Woppo</string>
+    <string name="endereco_palavra">Address: Igra Norte 303</string>
+    <string name="text_description">Woppo is a company looking for quality people in TORRES</string>
+    <string name="cidade">City: Torres</string>
+</resources>

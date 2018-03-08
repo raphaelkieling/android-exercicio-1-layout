@@ -1,6 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Exercicio 01 Aplicativo Empresa Woppo</string>
-    <string name="endereco_palavra">Endereço</string>
+    <string name="endereco_palavra">Endereço: Igra Norte 303</string>
     <string name="text_description">Woppo é um empresa que procura pessoas com qualidade em TORRES</string>
     <string name="cidade">Cidade: Torres</string>
 </resources>

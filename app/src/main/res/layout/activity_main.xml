@@ -48,7 +48,7 @@
            android:layout_height="wrap_content"
            android:layout_marginTop="20px"
            android:textAlignment="center"
-           android:text="Woppo é um empresa que empresa pessoas com qualidade em TORRES" />
+           android:text="@string/text_description" />
    </LinearLayout>
 
     <LinearLayout
@@ -62,13 +62,13 @@
            android:layout_width="match_parent"
            android:layout_height="wrap_content"
            android:layout_marginTop="20px"
-           android:text="Endereço: Igra Norte 302" />
+           android:text="@string/endereco_palavra" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="20px"
-            android:text="Cidade: Torres" />
+            android:text="@string/cidade" />
    </LinearLayout>
 
     <RatingBar
